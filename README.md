@@ -106,3 +106,6 @@ $ git merge dev
 ```sh
 $ git branch -d dev
 ```
+增加一个可以下载 git windows 的软件地址吧
+https://npm.taobao.org/mirrors/git-for-windows/v2.14.1.windows.1/
+希望后面可以有用
